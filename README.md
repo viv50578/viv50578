@@ -1,4 +1,4 @@
-![Header](./Vivek_Banner.png)
+![Header](./Vivek_Banner3.png)
 <h1 align="center">Hi 👋, I'm Vivek Iyer</h1>
 <h3 align="center">A passionate software developer who has a keen interest in Cybersecurity</h3>
 <img align="right" alt="Coding" width="300" src=./Git_Profile_GIF.gif>
